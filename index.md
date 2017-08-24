@@ -1,5 +1,5 @@
-## Welcome to GitHub Pages
-
+## ABOUT
+Iam Mohammed Jasir pursuing B.Tech Mechanical Engineering at M.E.S College Of Engineering, Kuttippuram. Iam from Kannu, Kerala, India. Iam 22 years old. Presently iam in the final year of the B.Tech. 
 You can use the [editor on GitHub](https://github.com/Mojasir/mojasir.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
